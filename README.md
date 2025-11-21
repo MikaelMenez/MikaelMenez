@@ -16,7 +16,7 @@ Let’s connect and build something great together!
 <h3>  &nbsp;My github history </h3>
 <div style="display: flex; flex-direction: row;">
  <img class="img"  height= "2000" width="419" src="https://github-readme-stats.vercel.app/api?username=MikaelMenez&theme=dracula&show_icons=true&hide_border=false"/>
- <img class="img" height= "2000" width="419" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMenez&layout=compact&theme=dracula&hide=html,css,javascrip,jupyter%20notebookt&exclude_repo=repo-teste"/>
+ <img class="img" height= "2000" width="419" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMenez&layout=compact&theme=dracula&hide=html,css,javascrip,jupyter%20notebook&exclude_repo=repo-teste"/>
 
  
 
