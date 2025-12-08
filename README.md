@@ -13,18 +13,12 @@ I believe in writing code that's not just functional, but elegant, maintainable,
 
 ## 💻 Linguagens Principais
 
-![Rust](https://img.shields.io/badge/Rust-45.2%25-orange?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-32.1%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-18.7%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-4.0%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMenez&layout=compact&theme=github_dark" alt="Git-Hobby Stats" />
-</div>
 
 ---
 
