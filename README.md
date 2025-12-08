@@ -16,8 +16,6 @@ I believe in writing code that's not just functional, but elegant, maintainable,
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ---
@@ -25,8 +23,8 @@ I believe in writing code that's not just functional, but elegant, maintainable,
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelMenez&theme=dracula&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMenez&layout=compact&theme=dracula&hide=html,css,jupyter%20notebook&exclude_repo=repo-teste"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelMenez&theme=github_dark&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMenez&layout=compact&theme=github_dark&hide=html,css,jupyter%20notebook&exclude_repo=repo-teste"/>
 </div>
 
 ---
