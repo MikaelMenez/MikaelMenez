@@ -15,7 +15,7 @@ I believe in writing code that's not just functional, but elegant, maintainable,
 
 ![Rust](https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Java-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ---
