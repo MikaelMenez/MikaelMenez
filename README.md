@@ -11,8 +11,7 @@ I believe in writing code that's not just functional, but elegant, maintainable,
 
 ### 🛠️ Languages & Technologies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikaelMenez&show_icons=true&rand=123)
-
+![Languages](https://img.shields.io/badge/Languages-Python%2047.1%%20%7C%20Kotlin%2020.2%%20%7C%20Java%2020.0%-blue?style=for-the-badge)
 
 ---
 
