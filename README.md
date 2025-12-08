@@ -12,15 +12,26 @@ I believe in writing code that's not just functional, but elegant, maintainable,
 
 ## 💻 Main languages
 
-![Rust](https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
-
-
----
+<table align="center">
+<tr>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
+    <br><strong>Rust</strong>
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+    <br><strong>Python</strong>
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+    <br><strong>Java</strong>
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+    <br><strong>C</strong>
+  </td>
+</tr>
+</table>
 
 ---
 
