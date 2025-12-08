@@ -13,7 +13,7 @@ I believe in writing code that's not just functional, but elegant, maintainable,
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MikaelMenez&show_icons=true&theme=dark"
+    srcset="![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaelMenez&show_icons=true&theme=radical)"
     media="(prefers-color-scheme: dark)"
   />
   <source
