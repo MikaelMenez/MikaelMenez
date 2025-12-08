@@ -1,36 +1,53 @@
-# Hi there 👋 this is Mikael
-**`Computer science student`**
+# Hi there 👋 I'm Mikael
+**`Computer Science Student | Backend Developer`**
 
-I’m a passionate student exploring the world of technology, eager to learn and grow as a future professional. My primary interests lie in data analysis, artificial intelligence, and full-stack development.
+I'm a passionate computer scientist exploring the intersection of systems programming, backend development, and software engineering. I love building robust, efficient solutions and diving deep into how things work under the hood.
 
-My goal is to refine my skills to create meaningful, impactful solutions that improve people's lives. I’m always open to collaboration, learning opportunities, and projects that challenge me to grow.
+My expertise spans **Rust**, **Java**, **C**, and **Python**, with a focus on creating high-performance applications, clean architectures, and solving complex technical challenges. Whether it's low-level systems programming or full-stack development, I'm always eager to learn and push the boundaries of what's possible.
 
-Let’s connect and build something great together! 
+I believe in writing code that's not just functional, but elegant, maintainable, and impactful. Let's connect and build something great together!
+
+---
+
+### 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelMenez&theme=dracula&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMenez&layout=compact&theme=dracula&hide=html,css,jupyter%20notebook&exclude_repo=repo-teste"/>
+</div>
+
+---
+
+### 🔥 My Focus Areas
+
+- 🦀 **Systems Programming** with Rust
+- ⚙️ **Backend Development** and API design
+- 🧮 **Algorithm Analysis** and optimization
+- 🐧 **Linux** and open-source contributions
+
+---
+
+### 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/mikael-menezes/">
-  <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s"/>
+  <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+---
 
-
-<h3>  &nbsp;My github history </h3>
-<div style="display: flex; flex-direction: row;">
- <img class="img"  height= "2000" width="419" src="https://github-readme-stats.vercel.app/api?username=MikaelMenez&theme=dracula&show_icons=true&hide_border=false"/>
- <img class="img" height= "2000" width="419" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMenez&layout=compact&theme=dracula&hide=html,css,javascript,jupyter%20notebook&exclude_repo=repo-teste"/>
-
- 
-
-<!--
-**MikaelMenez/MikaelMenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <i>💡 "Code is poetry written in logic"</i>
+</div>
