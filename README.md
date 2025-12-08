@@ -11,17 +11,8 @@ I believe in writing code that's not just functional, but elegant, maintainable,
 
 ### 🛠️ Languages & Technologies
 
-<picture>
-  <source
-    srcset="![Mikael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaelMenez&show_icons=true&theme=radical)"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MikaelMenez&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMenez)
+
 
 ---
 
