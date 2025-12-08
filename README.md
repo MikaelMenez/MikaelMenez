@@ -12,8 +12,8 @@ I believe in writing code that's not just functional, but elegant, maintainable,
 ### 🛠️ Languages & Technologies
 
 <div align="center">
-  <img src="https://githubcard.com/api?username=MikaelMenez&theme=dracula&compact=true" alt="GitHub Card Stats" />
-  <img src="https://githubcard.com/api?username=MikaelMenez&theme=dracula&langs=true&compact=true" alt="GitHub Card Languages" />
+    <img src="https://githobby.com/api/v1/stats/languages?username=MikaelMenez&theme=github_dark&hide=html,css,javascript,jupyter%20notebook&exclude_repo=repo-teste" alt="Git-Hobby Languages" />
+
 </div>
 
 ---
@@ -21,8 +21,7 @@ I believe in writing code that's not just functional, but elegant, maintainable,
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://githobby.com/api/v1/stats/card?username=MikaelMenez&theme=github_dark" alt="Git-Hobby Stats" />
-  <img src="https://githobby.com/api/v1/stats/languages?username=MikaelMenez&theme=github_dark&hide=html,css,javascript,jupyter%20notebook&exclude_repo=repo-teste" alt="Git-Hobby Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMenez&layout=compact&theme=github_dark" alt="Git-Hobby Stats" />
 </div>
 
 ---
