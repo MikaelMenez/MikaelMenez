@@ -23,8 +23,8 @@ I believe in writing code that's not just functional, but elegant, maintainable,
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelMenez&theme=github_dark&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMenez&layout=compact&theme=github_dark&hide=html,css,jupyter%20notebook&exclude_repo=repo-teste"/>
+  <img src="https://githobby.com/api/v1/stats/card?username=MikaelMenez&theme=dracula" alt="Git-Hobby Stats" />
+  <img src="https://githobby.com/api/v1/stats/languages?username=MikaelMenez&theme=dracula&hide=html,css,javascript,jupyter%20notebook&exclude_repo=repo-teste" alt="Git-Hobby Languages" />
 </div>
 
 ---
