@@ -34,6 +34,7 @@ I believe in writing code that's not just functional, but elegant, maintainable,
 </table>
 
 
+
 ---
 
 ### 🔥 My Focus Areas
