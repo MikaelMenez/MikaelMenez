@@ -15,7 +15,7 @@ I believe in writing code that's not just functional, but elegant, maintainable,
 <table align="center">
 <tr>
   <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
+    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="48" height="48" alt="Rust" />
     <br><strong>Rust</strong>
   </td>
   <td align="center" width="96">
@@ -32,6 +32,7 @@ I believe in writing code that's not just functional, but elegant, maintainable,
   </td>
 </tr>
 </table>
+
 
 ---
 
