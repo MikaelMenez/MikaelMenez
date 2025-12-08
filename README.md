@@ -12,7 +12,7 @@ I believe in writing code that's not just functional, but elegant, maintainable,
 ### 🛠️ Languages & Technologies
 
 <div align="center">
-    <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)" alt="Git-Hobby Languages" />
+    <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelMenez&hide=javascript,html)" alt="Git-Hobby Languages" />
 
 </div>
 
