@@ -3,7 +3,7 @@
 
 I'm a passionate computer scientist exploring the intersection of systems programming, backend development, and software engineering. I love building robust, efficient solutions and diving deep into how things work under the hood.
 
-My expertise spans **Rust**, **Java**, **C**, and **Python**, with a focus on creating high-performance applications, clean architectures, and solving complex technical challenges. Whether it's low-level systems programming or full-stack development, I'm always eager to learn and push the boundaries of what's possible.
+My expertise spans **Rust**, **Kotlin**, **C**, and **Python**, with a focus on creating high-performance applications, clean architectures, and solving complex technical challenges. Whether it's low-level systems programming or full-stack development, I'm always eager to learn and push the boundaries of what's possible.
 
 I believe in writing code that's not just functional, but elegant, maintainable, and impactful. Let's connect and build something great together!
 
@@ -23,7 +23,7 @@ I believe in writing code that's not just functional, but elegant, maintainable,
     <br><strong>Python</strong>
   </td>
   <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="kotlin" />
     <br><strong>Java</strong>
   </td>
   <td align="center" width="96">
