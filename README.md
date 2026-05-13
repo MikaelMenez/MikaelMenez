@@ -24,7 +24,7 @@ I believe in writing code that's not just functional, but elegant, maintainable,
   </td>
   <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="kotlin" />
-    <br><strong>Java</strong>
+    <br><strong>Kotlin</strong>
   </td>
   <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
